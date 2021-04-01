@@ -45,7 +45,7 @@
 </p>
 
 ```
-WhatsAsena - Asena Userbot is Open Source software open to development. 
+WALL-E Userbot is Open Source software open to development. 
 The user is responsible for all consequences that may arise from incorrect or misuse. 
 Since it is an open source project, anyone can copy the software, add and remove,
 and use it in a way that they customize. In addition, plug-in support enables users to 
@@ -67,7 +67,7 @@ the user is responsible.
 <p align="center">
     Project Wall-E - Makes it easy and fun to use Whatsapp. Also first userbot for Whatsapp.
     <br>
-        <a href="https://t.me/unofficialplugin">WALL-E HELP GROUP</a> |
+        <a href="https://t.me/unofficialplugin">|WALL-E HELP GROUP</a> |
     <br>
 </p>
 
@@ -93,19 +93,6 @@ the user is responsible.
 [![Run on Repl.it](https://repl.it/badge/github/phaticusthiccy/WhatsAsenaDuplicated)](https://repl.it/@phaticusthiccy/WhatsAsena-QR)
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/phaticusthiccy/WhatsAsenaDuplicated)
-
-### The Hard Method
-```js
-$ git clone https://github.com/phaticusthiccy/WhatsAsenaDuplicated.git
-$ cd WhatsAsenaDuplicated
-$ npm i
-$ nano Config.env
-// Config.env oluşturun ve düzenleyin.
-// Config.env create and edit.
-$ node bot.js
-```
-
-##
 
 ##
 
