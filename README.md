@@ -75,7 +75,7 @@ the user is responsible.
 ![Docker Pulls](https://img.shields.io/docker/pulls/fusuf/whatsasena?style=flat-square) ![Docker Image Size (latest by date)](https://img.shields.io/docker/image-size/fusuf/whatsasena?style=flat-square)
 
 ## 🔎 What is WALL-E?
-**WALL-E** is a WhatsApp helper bot written by [Mr.Acid] (httphttps://github.com/mracid-devs)Does not log into your account It is written on WhatsApp Web API.
+**WALL-E** is a WhatsApp helper bot written by [Mr.Acid](https://github.com/mracid-devs) Does not log into your account It is written on WhatsApp Web API.
 
 ## Setup
 
